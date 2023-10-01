@@ -1,2 +1,2 @@
 # MachineLearning_Project
-Predicting Customer Churn in Telecommunications Companies - MachineLearning
+Predicting Customer Churn in Telecommunication Companies - MachineLearning
